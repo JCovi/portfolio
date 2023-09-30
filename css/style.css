@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Lily+Script+One|Cabin|Varela+Round');
 
 body {
-	transform: translateY(100px);
-	background: #ECEFF1;
-	text-align: center;
+    transform: translateY(100px);
+    background: linear-gradient(to right, #ECEFF1, #87CEEB); /* Adjust the gradient colors as needed */
+    text-align: center;
+    height: 100vh;
+    margin: 0;
 }
 
 a {
@@ -43,22 +45,6 @@ a:hover {
 
 	font-size: 40px;
 	margin: 10px 4px;
-}
-
-.skill {
-    display: inline-block;
-    margin-right: 20px; /* Adjust as needed */
-    text-align: center;
-}
-
-.skill i {
-    font-size: 48px; /* Adjust icon size as needed */
-    margin-bottom: 10px; /* Space between icon and text */
-}
-
-.skill span {
-    display: block;
-    font-weight: bold; /* Adjust text styling as needed */
 }
 
 ul {
@@ -142,37 +128,37 @@ ul li {
 	color: #F44336;
 }
 
-#pomodoro-clock li {
+#codingquiz li {
 	background: #512DA8;
 	border-color: #512DA8;
 }
 
-#tweet li {
+#passwordgenerator li {
 	background: #33691E;
 	border-color: #33691E;
 }
 
-#upvote li{
+#couplesquestiongenerato li{
 	background: #EF6C00;
 	border-color: #EF6C00;
 }
 
-#twentyh li {
+#workdayscheduler li {
 	background: #3F51B5;
 	border-color: #3F51B5;
 }
 
-#tvfreak li {
+#myportfoli li {
 	background: #3E2723;
 	border-color: #3E2723;
 }
 
-#notify-me li {
+#couplesquestiongenerator li {
 	background: #E53935;
 	border-color: #E53935;
 }
 
-#wikipedia-viewer li {
+#myportfolio li {
 	background: #19bd9b;
 	border-color: #19bd9b;
 }
@@ -201,4 +187,3 @@ ul li {
 	background: #0D2636;
 	border-color: #0D2636;
 }
-
