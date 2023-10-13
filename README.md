@@ -23,8 +23,4 @@ This portfolio provides an overview of my work as a Full-Stack Web Developer. Ex
 
 ![Screenshot 1](./assets/portfolio-snippet.png)
 
-Caption for Screenshot 1.
-
 ![Screenshot 2](./assets/portfolio-snippet-2.png)
-
-Caption for Screenshot 2.
